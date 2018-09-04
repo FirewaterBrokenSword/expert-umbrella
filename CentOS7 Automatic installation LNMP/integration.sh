@@ -1,4 +1,5 @@
 #!/bin/sh
+. /etc/init.d/functions
 Path1=wwww
 Path2=simplify
 Path3=ht5
